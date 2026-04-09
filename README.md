@@ -11,7 +11,7 @@
 
 ## 🔥 News
 
-- **[2026/03]** CounterVQA is accepted to **CVPR 2026**!
+- **[2026/03]** CounterVQA is accepted to **CVPR 2026 Findings**!
 - Dataset & Code will be released.
 
 
