@@ -32,9 +32,7 @@
 - **CFGPT Framework** — Two-stage post-training combining cross-modal causal transfer (SFT) and visual-causal alignment optimization (GRPO with causal graph rewards)
 - **Comprehensive Evaluation** — Benchmarking 5 state-of-the-art open- and closed-source VLMs
 
-<p align="center">
-  <img src="assets/pipeline.png" width="90%">
-</p>
+
 
 ---
 
