@@ -53,12 +53,6 @@
 
 
 
-## License
-
-This project is released under the [Apache 2.0 License](LICENSE).
-
----
-
 <p align="center">
   <i>If you have any questions, please open an issue or contact <a href="mailto:chen.yuefei@rutgers.edu">chen.yuefei@rutgers.edu</a></i>
 </p>
